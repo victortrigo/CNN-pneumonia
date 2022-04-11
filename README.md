@@ -4,3 +4,5 @@ Se construye una arquitectura convolucional de Redes Neuronales Artificiales par
 
 
 [Leer Articulo](Diagnostico_de_neumonia_mediante_aprendisaje_profundo_basado_en_imagenes.pdf)
+
+[Ver Codigo](cnn-para-diagnostico-de-neumonia.ipynb)
