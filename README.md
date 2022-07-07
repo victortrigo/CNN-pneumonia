@@ -18,4 +18,3 @@ Utilizando TensorFlow se construye una Red Neuronal Convolucional para la clasif
 
 - [Ver Código](cnn-para-diagnostico-de-neumonia.ipynb) 
 
-- [PDF](Diagnostico_de_neumonia_mediante_aprendisaje_profundo_basado_en_imagenes.pdf) 
