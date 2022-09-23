@@ -1,20 +1,8 @@
-# Deep Learning para el diagnóstico de neumonía 
+# Deep Learning for Pneumonia Diagnosis
 
-  
+Pneumonia is an infection of the lung tissue. It is highly visible on chest radiographs. Using the data provided by this [Challenge of Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), a model for the classification of chest radiographs was built.
 
-Neumonía es una infección del tejido pulmonar. Es muy visible en radiografías de tórax (se ve como una mancha blanca donde debería haber pulmón). Utilizando los datos proporcionados por este [Challenge en Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), se realizó un modelo predictivo utilizando Deep Learning. 
-
-  
-
-Utilizando TensorFlow se construye una Red Neuronal Convolucional para la clasificación de radiografías de tórax; Neumonía o Normal. El Modelo obtuvo un Accuracy = 87% como medida de generalización.  
-
-  
-
-  
-
-  
-
-  
+Using TensorFlow, a Convolutional Neural Network is built for the classification of chest radiographs; Pneumonia or Normal. The Model obtained an Accuracy = 87% as a measure of generalization. 
 
 - [Ver Código](cnn-para-diagnostico-de-neumonia.ipynb) 
 
