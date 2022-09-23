@@ -4,5 +4,5 @@ Pneumonia is an infection of the lung tissue. It is highly visible on chest radi
 
 Using TensorFlow, a Convolutional Neural Network is built for the classification of chest radiographs; Pneumonia or Normal. The Model obtained an Accuracy = 87% as a measure of generalization. 
 
-- [Ver Código](cnn-para-diagnostico-de-neumonia.ipynb) 
+- [Code](cnn-para-diagnostico-de-neumonia.ipynb) 
 
