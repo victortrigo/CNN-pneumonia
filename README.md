@@ -6,3 +6,4 @@ Using TensorFlow, a Convolutional Neural Network is built for the classification
 
 - [Code](cnn-pneumonia.ipynb) 
 - [PDF](Diagnostico_de_neumonia_mediante_aprendisaje_profundo_basado_en_imagenes.pdf) 
+- [Presentation](presentation.pdf) 
